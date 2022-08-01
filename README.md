@@ -1,4 +1,4 @@
 # EE_769-Introduction-to-ML
-* Assignment 1
-* Assignment 2
-* Assignment 3
+* Assignment 1 :  coded and tested gradient descent to train and validate L1 and L2 penalized linear regression from scratch
+* Assignment 2 :  I performed exploratory data analysis and eliminated correlated variables and imputed missing variables. I also trained and validated hyperparameters of elastic net logistic regression, neural networks, support vector machines, and random forests for a classification problem. I also checked feature importance, and eliminated variables to improve model performance
+* Assignment 3 :  I modified pre-existing CNN training code to classify bees versus ants to run on Google CoLab to test learning rate and momentum and added weight decay for regularization. I also preprocessed data for clustering using various transforms, trained and visualized the effect of k in k-means clustering. I also trained principal component analysis and selected the number of dimensions based on variance explained. I also trained kernel principal component analysis and selected the number of dimensions based on variance explained
